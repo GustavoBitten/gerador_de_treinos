@@ -1,0 +1,13 @@
+module.exports = [
+    "TERRA",
+    "ELEVAÇÃO/PONTE",
+    "TERRA BARRA HEXAGONAL",
+    "TERRA BARRA RETA",
+    "STIFF",
+    "PONTE BANCO",
+    "PONTE CHAO",
+    "ELEVAÇAO DE QUADRIL MAQUINA",
+    "STIFF BARRA",
+    "STIFF ASSIMÉTRICO",
+    "STIF HALTER BILATERAL"
+];
