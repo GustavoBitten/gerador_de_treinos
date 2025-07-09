@@ -2,7 +2,7 @@ import sys
 import os
 
 # Adiciona o diretório raiz do projeto ao Python path
-project_root = '/home/maleguga/prj-personal/gerador_de_treinos'
+project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 if project_root not in sys.path:
     sys.path.insert(0, project_root)
 
